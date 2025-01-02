@@ -1,4 +1,6 @@
-''' Given a non-negative integer x, return the square root of x rounded down to the nearest integer.
+'''
+69. sqrt(x)
+Given a non-negative integer x, return the square root of x rounded down to the nearest integer.
 The returned integer should be non-negative as well.
 
 Looping through the range of numbers to search for the n value is considered a brute force solution.
